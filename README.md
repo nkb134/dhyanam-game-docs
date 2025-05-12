@@ -1,4 +1,3 @@
-# dhyanam-game-docs
 # Dhyanam: The Game – Design Brief
 
 ## Emotional Beats
